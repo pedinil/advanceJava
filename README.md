@@ -22,3 +22,7 @@ and description is given in the form of comments
 4. Wildcard Singenerics
 5. LinkedLists
 6. Hashmap
+7. LinkedHashMap
+8. Functional Interface using lambda
+9. Method references
+10. 
