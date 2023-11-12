@@ -25,4 +25,5 @@ and description is given in the form of comments
 7. LinkedHashMap
 8. Functional Interface using lambda
 9. Method references
-10. 
+10. The Thread running by ExecutorService
+11. Using synchronized to handle thread use resource at same time
