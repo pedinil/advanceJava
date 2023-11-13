@@ -29,4 +29,4 @@ and description is given in the form of comments
 11. Using synchronized to handle thread use resource at same time
 12. Using scanner in to scan value from prompt 
 13. Bufferedreader class to read the file 
-14. 
+14. Bufferedreader with try with resources
